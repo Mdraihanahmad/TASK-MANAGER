@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&display=swap');
+body {
+  user-select: none;
+  background-size: cover; /* Stretch to cover entire area */
+  background-color: rgb(255, 255, 255);
+  background-repeat: no-repeat; /* Prevent splitting/repeating */
+  background-position: center; /* Keep image centered */
+  background-attachment: fixed;
+  font-family: "Love Light";
+  font-weight: 500;
+  font-size: larger;
+  font-style: normal;
+}
