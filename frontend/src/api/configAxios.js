@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-    baseURL : "https://task-manager-api-be2v.onrender.com/api/tasks"
+    baseURL : "https://task-manager-ds0k.onrender.com/api/tasks"
 
 })
 
